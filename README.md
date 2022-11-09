@@ -1,2 +1,2 @@
 # DFAimplementation
-a program  to read , determine, minimize DFA using C language 
+a program  to read , determine, minimize NFA using C language 
